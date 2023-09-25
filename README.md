@@ -1,7 +1,5 @@
 # Vision-Based Attendance System
 
-![Vision-Based Attendance System](attendance_system_image.jpg)
-
 This is the README file for the "Vision-Based Attendance System" project. The project aims to create an attendance system using computer vision techniques. The provided Python application file orchestrates several processes, including collecting user images for registration, generating face embeddings, training a recognition model, and making attendance predictions.
 
 ## Project Overview
